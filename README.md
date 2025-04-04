@@ -84,7 +84,7 @@ MIT License © 2025 [Akash](https://github.com/aakash-codder)
 
 Pull requests are welcome! If you’d like to:
 - Add sound effects
-- Enable paste mode
+- Add a feature to stop the typing using shortcut
 - Improve UI responsiveness  
 Feel free to fork and send PRs 🚀
 
