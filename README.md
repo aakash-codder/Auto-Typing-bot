@@ -15,11 +15,7 @@ A modern Python GUI application that types out your copied text character by cha
 
 ---
 
-## 📸 Preview
 
-> _Coming soon — add screenshots or gifs here!_
-
----
 
 ## 🛠️ Installation
 
